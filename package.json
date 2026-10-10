@@ -1,13 +1,13 @@
 {
   "name": "soporte-tecnico-nosql",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Diseño NoSQL para soporte técnico con ejemplos JSON y consultas de demostración.",
+  "main": "src/index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
