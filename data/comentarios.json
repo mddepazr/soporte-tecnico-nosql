@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "comentario-001",
+    "ticketId": "ticket-001",
+    "usuarioId": "usuario-001",
+    "contenido": "Ya intenté restablecer la contraseña y el problema continúa.",
+    "fechaCreacion": "2026-10-09T15:10:00.000Z"
+  },
+  {
+    "_id": "comentario-002",
+    "ticketId": "ticket-002",
+    "usuarioId": "usuario-003",
+    "contenido": "Estoy revisando la conexión y la cola de impresión.",
+    "fechaCreacion": "2026-10-09T16:45:00.000Z"
+  }
+]

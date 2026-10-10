@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "usuario-001",
+    "nombre": "Marcos de Páz",
+    "correo": "marcos@example.com",
+    "rol": "solicitante"
+  },
+  {
+    "_id": "usuario-002",
+    "nombre": "Emily Morales",
+    "correo": "emily@example.com",
+    "rol": "solicitante"
+  },
+  {
+    "_id": "usuario-003",
+    "nombre": "Carlos Méndez",
+    "correo": "carlos@example.com",
+    "rol": "tecnico"
+  }
+]

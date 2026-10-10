@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "ticket-001",
+    "usuarioId": "usuario-001",
+    "titulo": "No puedo ingresar al correo",
+    "descripcion": "El correo institucional rechaza mi contraseña.",
+    "estado": "abierto",
+    "prioridad": "alta",
+    "fechaCreacion": "2026-10-09T15:00:00.000Z"
+  },
+  {
+    "_id": "ticket-002",
+    "usuarioId": "usuario-002",
+    "titulo": "La impresora no imprime",
+    "descripcion": "Los documentos quedan pendientes en la cola de impresión.",
+    "estado": "en_proceso",
+    "prioridad": "media",
+    "fechaCreacion": "2026-10-09T16:30:00.000Z"
+  }
+]
